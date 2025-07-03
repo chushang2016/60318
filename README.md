@@ -11,7 +11,7 @@
 #   项目资料获取方式
 *   需要资料或者有任何问题的加QQ：2684634017
 
-*   项目源代码下载地址： http://blog.codercode.cn/#/home/goodDetail?goodId=60318
+*   项目源代码下载地址： https://bysj.bsitem.com/#/home/goodDetail?goodId=60318
 *   项目演示视频：https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/60318/151-java%E9%A1%B9%E7%9B%AE-ssm%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1.mp4
 
 *  5000+项目及演示视频 ：https://www.yuque.com/codercode/cqaxlg/wznt5a2m92ay93gz?singleDoc#lND3 《毕设资源大全》
